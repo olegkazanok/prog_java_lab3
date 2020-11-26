@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class Main {
-
+//this is git
     public static void main(String[] args) {
         JFrame frame = new JFrame("Таблица");
         frame.setSize(700, 400);

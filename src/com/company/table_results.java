@@ -1,7 +1,7 @@
 package com.company;
 
 import javax.swing.table.AbstractTableModel;
-
+//hello
 public class table_results extends AbstractTableModel {
 
     private double from, to, step;
